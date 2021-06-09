@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+#warrper {
+	width: 1200px;
+	margin: 0 auto;
+}
+.section-1 {
+	width: 100%;
+	height: 500px;
+	background-size:cover;
+	background-repeat: repeat-y;
+	background: url(file:///C:/Users/ASUS/Downloads/c27d366dd16764e3fb2a6fcb25974019.gif)
+}
+.section-2 {
+	width: 100%;
+	height: 500px;
+	background: url(file:///C:/Users/ASUS/Downloads/0bb6dqsiab451.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.section-3 {
+	width: 100%;
+	height: 500px;
+    background: url(file:///C:/Users/ASUS/Downloads/t%E1%BA%A3i%20xu%E1%BB%91ng.jpg),url(file:///C:/Users/ASUS/Downloads/kisspng-computer-icons-person-encapsulated-postscript-logo-people-vector-material-5ad8d45cba0251.3112385815241595807619.jpg),
+		url(file:///C:/Users/ASUS/Downloads/kisspng-computer-icons-person-encapsulated-postscript-logo-people-vector-material-5ad8d45cba0251.3112385815241595807619.jpg),url(file:///C:/Users/ASUS/Downloads/kisspng-computer-icons-user-icon-design-download-5af38b23311a07.7140998815259103072011.jpg);
+    background-repeat: no-repeat;
+	background-position:top left, 100px,top, 300px,100px,right bottom, left bottom;
+	background-size: 100px,200px, 200px , 300px;
+	
+}
